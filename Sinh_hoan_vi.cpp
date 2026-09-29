@@ -40,7 +40,6 @@ int main()
     for(ll i=1;i<=n;i++)
     {
         a[i]=i;
-        b[i]=a[i];
     }
     while(check)
     {
